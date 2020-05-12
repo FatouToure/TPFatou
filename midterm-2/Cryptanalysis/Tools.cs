@@ -74,11 +74,11 @@ public static class Tools
     {
         int[] index = new int[26];
 
-        for (int i = 0; i < str.Length; i++)
+        foreach (var c in str)
         {
-            if (LetterIndex(str[i]) != -1)
+            if (LetterIndex(c) != -1)
             {
-                index[LetterIndex(str[i])]++;
+                index[LetterIndex(c)]++;
             }
         }
 
