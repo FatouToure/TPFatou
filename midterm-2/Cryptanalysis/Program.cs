@@ -8,7 +8,7 @@ internal static class Program
     {
         // Put your tests here.
         
-        Console.WriteLine(Tools.Histogram("Aa c"));
+        Console.WriteLine(Tools.RotChar('l',25));
         Test();
     }
 
