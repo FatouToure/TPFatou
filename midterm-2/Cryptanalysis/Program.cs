@@ -8,7 +8,7 @@ internal static class Program
     {
         // Put your tests here.
         
-        Console.WriteLine(Tools.RotChar('l',25));
+        Console.WriteLine(Tools.Extract("ABCDEFGHIJKLMNO", 5, 3));
         Test();
     }
 
