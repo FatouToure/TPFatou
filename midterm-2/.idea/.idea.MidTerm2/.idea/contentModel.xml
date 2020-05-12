@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\FaBob\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\FaBob\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_MidTerm2.-1040057591.00" t="ExcludeRecursive" />
+    <e p="C:\Users\FaBob\TPFatou\midterm-2" t="IncludeFlat">
+      <e p="Cryptanalysis" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Caesar.cs" t="Include" />
+        <e p="Cryptanalysis.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Cryptanalysis.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Tools.cs" t="Include" />
+        <e p="Vigenere.cs" t="Include" />
+      </e>
+      <e p="MidTerm2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
