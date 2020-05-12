@@ -54,7 +54,7 @@ namespace Cryptanalysis
             int[] hist = Tools.Histogram(cypherText);
             int max = Maximum(hist);
             
-            int res = hist[max] - 4;
+            int res = hist[max] - hist[4];
 
             return res;
         }

@@ -8,7 +8,7 @@ internal static class Program
     {
         // Put your tests here.
         
-        Console.WriteLine(Tools.Extract("ABCDEFGHIJKLMNO", 5, 3));
+        Console.WriteLine(Caesar.GuessKey("Pb hadp lv vr lqwhuhvwlqj! Wkdqnv DFGF <3"));
         Test();
     }
 
